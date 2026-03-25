@@ -14,3 +14,12 @@ This project uses deep learning and computer vision to classify weather conditio
 - OpenCV
 - NumPy, Matplotlib
 
+## 📊 Results
+- Accuracy: 93%
+- Model: VGG16
+
+## 📸 Sample Output
+(Add screenshot of prediction here)
+
+## 🔗 Dataset
+(Add Google Drive or dataset link)
